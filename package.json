@@ -1,7 +1,7 @@
 {
   "name": "portfolio2023",
   "version": "0.1.0",
-  "homepage": "https://philipphyoe.github.io/philipphyoe",
+  "homepage": "https://philipphyoe.github.io/myportfolio2023",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.3.0",
