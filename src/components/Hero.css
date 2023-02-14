@@ -1,0 +1,21 @@
+.hero {
+    width: 60%;
+    margin: auto;
+    height: auto;
+    padding: 8rem;
+}
+
+.hero-title {
+    font-size: 3.5rem;
+}
+.hero-subtitle {
+    font-size: 3rem;
+}
+.hero-message {
+    font-size: 2rem;
+}
+
+span {
+    color: white;
+    -webkit-text-stroke: 2px black;
+}
